@@ -1,0 +1,39 @@
+.container{
+	padding-bottom: 69px;
+}
+.text{
+	padding: 42px 20px 50px 43px;
+	background: url(../img/tiao.png) left top no-repeat;
+	width: 1077px;
+	margin: 0 auto;
+	background-color: #fff;
+	color: #3b3b3b;
+}
+.text>p{
+	font-size: 16px;
+	margin: 13px 0 34px; 
+	line-height: 28px;
+}
+.text span{
+	width: 72px;
+	height: 35px;
+	line-height: 35px;
+	display: block;
+	text-align: center;
+}
+.span1{
+	border:1px solid #3da4b0;
+	color: #3da4b0;
+}
+.span2{
+	border:1px solid #c2992c;
+	color: #c2992c;
+}
+.span3{
+	border:1px solid #e45642;
+	color: #e45642;
+}
+.linian div{
+	margin: 15px 0;
+	line-height: 24px;
+}

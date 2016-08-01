@@ -1,0 +1,40 @@
+.container{
+	padding-bottom: 50px;
+	color: #3b3b3b;
+}
+.box img{
+	display: block;
+	float: left;
+}
+.box p{
+	font-size: 12px;
+}
+.box-l>div,.box-r>div{
+	width: 530px;
+	margin-bottom: 15px;
+	padding: 15px;
+	background-color: #fff;
+}
+.text{
+	float: left;
+	margin-left: 10px;
+	width: 380px;
+}
+.box .title{
+	font-size: 15px;
+}
+.para{
+	margin: 7px 0 4px;
+	line-height: 18px;
+}
+.infor{
+	float: right;
+}
+.infor span{
+	margin-left: 12px;
+}
+.infor .date{
+	color: #888;
+}
+
+

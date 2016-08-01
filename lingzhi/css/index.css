@@ -1,0 +1,157 @@
+.img-outer{
+	position: relative;
+	background: url(../img/bg.png) center;
+	background-size: 1600px;
+	height: 743px;
+}
+.point-outer{
+	width: 56px;
+	height: 9px;
+	position: absolute;
+	top:90%;
+	left: 50%;
+	margin-left: -28px;
+}
+.point{
+	width: 7px;
+	height: 7px;
+	border: 1px solid #000;
+	border-radius: 5px;
+	margin-left: 14px;
+	background-color: #fff;
+	display: block;
+	float: left;
+}
+.point:first-child{
+	margin-left: 0;
+}
+.point:hover{
+	background-color:#000;
+}
+.focus{
+	background-color:#000;
+}
+.contact-bg{
+	opacity: 0.4;
+	background-color: #ddd;
+	border-top: 1px solid #bfbfbf;
+	height: 30px;
+	min-width: 1140px;
+	position: absolute;
+	bottom: 0;
+	width: 100%;
+}
+.contact-outer{
+	position: absolute;
+	bottom: 0;
+	width: 100%;
+}
+.contact{
+	height: 30px;
+	line-height: 30px;
+}
+.contact li{
+	float: left;
+	margin-left: 141px;
+	font-size: 12px;
+	color: #6f6f6f;
+}
+.contact i{
+	display: inline-block;
+	vertical-align: middle;
+	background-repeat: no-repeat;
+}
+.contact li:first-child{
+	margin-left: 0;
+}
+.contact .qq-li{
+	float: right;
+	margin: 0;
+}
+.contact .sp1{
+	font-size: 15px;
+	color: #36004d;
+}
+.tele{
+	width: 12px;
+	height: 16px;
+	background-image: url(../img/telephone.png);
+}
+.login{
+	width: 11px;
+	height: 11px;
+	background-image: url(../img/chuanzhen.png);
+}
+.email{
+	width: 12px;
+	height: 10px;
+	background-image: url(../img/email.png);
+}
+.qq{
+	width: 13px;
+	height: 13px;
+	background-image: url(../img/qq.png);
+}
+.pics-outer{
+	padding:50px 0 44px;
+	background: #fff;
+}
+.pics{
+	margin: -8px 0 0 -8px;
+	overflow: hidden;
+}
+.pics>div>div:hover div,.pics>div>div:hover a{
+	display: block;
+}
+.picsc>div,.picsl>div,.picsr>div{
+	margin:8px 0 0 8px;
+	position: relative;
+}
+.pics img{
+	display: block;
+	position: relative;
+}
+.pics a{
+	display: none;
+	background-color: #ff48ce;
+	color: #fff;
+	width: 90px;
+	height: 38px;
+	font-size: 14px;
+	padding: 8px 5px;
+	position: absolute;
+	top:50%;
+	left: 50%;
+	margin-left: -50px;
+	margin-top: -27px;
+	text-align: center;
+}
+.picsc>div div,.picsl>div div,.picsr>div div{
+	position: absolute;
+	top:0;
+	left:0;
+	right: 0;
+	bottom: 0;
+	background-color: #000;
+	opacity: 0.5;
+	display: none;
+}
+.picsc{
+	width: 688px;
+}
+.picsl,.picsc,.picsr,.picsc>div{
+	float: left;
+}
+.pics .float-r{
+	float: right;
+}
+.pics .blank1{
+	width: 81px;
+	height: 81px;
+	background-color: #f5e3de;
+}
+.pics .blank2{
+	width: 72px;
+	height: 69px;
+	background-color: #e3e3e3;
+}

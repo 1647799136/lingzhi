@@ -1,0 +1,61 @@
+.container{
+	padding-bottom: 54px;
+}
+.goods-outer{
+	margin:0 auto;
+	margin-bottom:23px; 
+	padding:47px 30px;
+	background-color: #f5f5f5;
+	width: 1080px;
+}
+.img-outer{
+	width: 363px;
+	height: 224px;
+	background: url(../img/cpbg.png);
+	position: relative;
+}
+.img-outer img{
+	float: left;
+	position: relative;
+	z-index: 2;
+}
+.text-outer{
+	font-size: 12px;
+	color: #3c3c3c;
+	line-height: 22px;
+}
+.text-outer img{
+	display: block;
+	margin: 10px 0 18px 4px;
+}
+.name{
+	font-size: 20px;
+}
+.tor{
+	float: right;
+	width: 523px;
+}
+.tol{
+	float: left;
+	width: 680px;
+}
+.infor{
+	margin: 5px 0;
+}
+.infor span{
+	line-height: 13px;	padding: 0 5px;
+}
+.from{
+	border-right: 1px solid #3c3c3c;
+}
+.seemore{
+	display: block;
+	width: 96px;
+	height: 36px;
+	line-height: 36px;
+	color: #ef3a05;
+	border:1px solid #ef3a05;
+	text-align: center;
+	font-size: 16px;
+	margin-top: 12px;
+}

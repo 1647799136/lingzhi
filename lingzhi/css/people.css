@@ -1,0 +1,39 @@
+.container{
+	padding: 38px 0 40px;
+}
+.main{
+	padding: 31px;
+	width: 1078px;
+	margin: 0 auto;
+	background-color: #f5f5f5;
+	position: relative;
+}
+.text-outer{
+	background-color: #fff;
+	padding: 28px;
+	color: #3b3b3b;
+	font-size: 12px;
+	line-height: 18px;
+	position: relative;
+	z-index: 2;
+	margin-bottom: 38px;
+}
+.text-outer div{
+	margin-bottom: 28px;
+}
+.text-outer h5{
+	font-size: 16px;
+	margin-bottom: 15px;
+}
+.text-outer .title{
+	color: #ef3a05;
+	text-indent: 10px;
+	margin-bottom: 10px;
+	font-size: 14px;
+	background: url(../img/red2.png)left no-repeat;
+}
+.text-outer .telenumber{
+	font-size: 14px;
+	margin-bottom: 8px;
+	line-height: 22px;
+}

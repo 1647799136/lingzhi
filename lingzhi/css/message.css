@@ -1,0 +1,66 @@
+.container{
+	padding: 38px 0;
+}
+.holder{
+	padding: 31px 31px 83px 31px;
+	background-color: #f5f5f5;
+	width: 1078px;
+	margin: 0 auto;
+	position: relative;
+	overflow: hidden;
+}
+.messages{
+	margin-top: -1px;
+	padding:8px 30px 30px;
+	position: relative;
+	z-index: 2;
+	background-color: #fff;
+}
+.text{
+	float: left;
+	margin-left: 10px;
+	position: relative;
+	font-size: 12px;
+	color: #3c3c3c;
+	line-height: 18px;
+	width: 955px;
+}
+.date{
+	color: #999;
+}
+.from{
+	position: absolute;
+	right: 0;
+	bottom: -5px;
+}
+.form span{
+	display: block;
+	border-right: 1px solid #3c3c3c;
+	line-height: 13px;
+	padding: 0 8px;
+}
+.message{
+	padding: 20px 0 26px;
+	border-top: 1px dashed #d3d3d3;
+}
+.head{
+	width: 53px;
+	height: 53px;
+	float: left;
+	border-radius: 27px;
+}
+.head1{
+	background: url(../img/head1.png) center center no-repeat;
+}
+.head2{
+	background: url(../img/head2.png) center center no-repeat;
+}
+.head3{
+	background: url(../img/head3.png) center center no-repeat;
+}
+.no-border{
+	border-top: none;
+}
+.jump,.page-span{
+	color: #000;
+}

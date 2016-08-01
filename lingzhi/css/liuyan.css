@@ -1,0 +1,103 @@
+.container{
+	padding: 50px 0 48px 0;
+}
+.main{
+	background-color: #f5f5f5;
+	padding: 40px 0 60px;
+}
+.board-outer{
+	padding-bottom: 73px;
+	position: relative;
+	width: 490px;
+	margin: 0 auto;
+}
+.board{
+	padding: 58px 50px;
+	background-color: #fff;
+	width: 390px;
+	font-size: 14px;
+	color: #3b3b3b;
+	line-height: 30px;
+	position: relative;
+	z-index: 2;
+}
+.board li{
+	margin-bottom: 10px;
+	overflow: hidden;
+}
+.board span{
+	margin-right: 16px;
+	text-align: right;
+	width: 70px;
+	display: block;
+	float: left;
+}
+.board input{
+	background-color: #ebebeb;
+	height: 33px;
+	float: left;
+	padding: 0 10px;
+	width: 176px;
+}
+.select{
+	width: 81px;
+	height: 33px;
+	background-color: #ebebeb;
+}
+.check .check-outer{
+	width:initial;
+	margin-right: 15px;
+}
+.board .checkbox{
+	width: 14px;
+	height: 14px;
+	background-color: #ebebeb;
+	margin-right: 5px;
+	margin-top: 4px;
+}
+.board .check{
+	height: 22px;
+	margin: 16px 0;
+	line-height: 22px;
+}
+.textarea{
+	width: 280px;
+	height: 83px;
+	background-color: #ebebeb;
+	float: left;
+	padding: 10px;
+}
+.board .code{
+	width: 52px;
+	margin-right: 8px;
+}
+.board img{
+	width: 36px;
+	height: 33px;
+	float: left;
+	margin-right: 8px;
+}
+.a1{
+	color: #3340e8;
+	text-decoration: underline;
+}
+.board .submit{
+	width: 85px;
+	height: 33px;
+	float: right;
+	background-color: #70007a;
+	color: #fff;
+	margin-top: 55px;
+	margin-bottom: 8px;
+}
+.board .bottom-li{
+	margin-bottom: 0;
+}
+.a2{
+	float: right;
+	color:#0027b8;
+	text-decoration: underline;
+}
+.bottom-sd{
+	bottom: 0;
+}
